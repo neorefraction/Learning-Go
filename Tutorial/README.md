@@ -5,9 +5,9 @@ This folder have some simple pices of code that shows how the basic concepts of 
 ## Content
 
 
-- [Hello World](https://github.com/neorefraction/Learning-Go/Tutorial/HelloWorld)
-- [Data Entities](https://github.com/neorefraction/Learning-Go/Tutorial/DataEntities)
-- [Operators](https://github.com/neorefraction/Learning-Go/Tutorial/Operators)
-- [Conditionals](https://github.com/neorefraction/Learning-Go/Tutorial/Conditionals)
-- [Loops](https://github.com/neorefraction/Learning-Go/Tutorial/Loops)
-- [Functions](https://github.com/neorefraction/Learning-Go/Tutorial/Functions)
+- [Hello World](https://github.com/neorefraction/Learning-Go/tree/main/Tutorial/HelloWorld)
+- [Data Entities](https://github.com/neorefraction/Learning-Go/tree/main/Tutorial/DataEntities)
+- [Operators](https://github.com/neorefraction/Learning-Go/tree/main/Tutorial/Operators)
+- [Conditionals](https://github.com/neorefraction/Learning-Go/tree/main/Tutorial/Conditionals)
+- [Loops](https://github.com/neorefraction/Learning-Go/tree/main/Tutorial/Loops)
+- [Functions](https://github.com/neorefraction/Learning-Go/tree/main/Tutorial/Functions)
