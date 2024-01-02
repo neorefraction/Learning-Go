@@ -4,6 +4,6 @@ As in other programming languages, Go has several data entities such as variable
 
 ## Content
 
-- [Variables](https://github.com/neorefraction/Learning-Go/Tutorial/DataEntities/Variables)
-- [Constants](https://github.com/neorefraction/Learning-Go/Tutorial/DataEntities/Constants)
-- [Arrays](https://github.com/neorefraction/Learning-Go/Tutorial/DataEntities/Arrays)
+- [Variables](https://github.com/neorefraction/Learning-Go/tree/main/Tutorial/DataEntities/Variables)
+- [Constants](https://github.com/neorefraction/Learning-Go/tree/main/Tutorial/DataEntities/Constants)
+- [Arrays](https://github.com/neorefraction/Learning-Go/tree/main/Tutorial/DataEntities/Arrays)
