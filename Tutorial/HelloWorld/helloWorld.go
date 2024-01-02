@@ -1,4 +1,4 @@
-// Defines the main package. Go needs packages to manage code
+// Defines the main package. Go needs packages contexts to manage code
 package main
 
 // Imports the Input/Output package from the standar library
