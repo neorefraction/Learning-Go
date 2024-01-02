@@ -9,5 +9,5 @@ Main function of the main package.
 Works as an entry point for the program as in C and C++
 */
 func main() {
-	fmt.Printf("Hello, Go!") // Print function from standar library. It works similar to C.
+	fmt.Print("Hello, Go!") // Print function from standar library. It works similar to C.
 }
