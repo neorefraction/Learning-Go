@@ -1,8 +1,9 @@
 # For
 
-Unlike other lenguajes, `for` is the unique looping construct of the lenguaje.
+Unlike other lenguajes, `for` is the unique looping construct of the lenguaje. However, it doesn't mean that it isn't possible to create a `while` like loops. 
+The syntax used to create a loop is shown below.
 
-### Examples
+### Foor like loops
 ```go
 // Classic initial/condition/after for loop
 var i int
@@ -26,7 +27,7 @@ How fun is Go
 How fun is go
 ```
 
-However, it doesn't mean that we can't create `while` like loops.
+### While like loops
 
 ```go
 // While true
@@ -43,4 +44,6 @@ for j > 0 {
     fmt.Printf("%d ", j)
 }
 ```
+
+### Output
 
